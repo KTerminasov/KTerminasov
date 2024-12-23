@@ -1,5 +1,6 @@
-## Hi there 👋
+## Привет! Я Терминасов Кирилл 👋 
 
+Вот мои работы:
 <!--
 **KTerminasov/KTerminasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
